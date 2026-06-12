@@ -18,7 +18,7 @@
 __latexindent_temp.tex
 
 ## PDF
-*.pdf
+#*.pdf
 
 ### Editor ###
 ## Vim & Emacs temp files:
